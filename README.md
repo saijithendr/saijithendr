@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **jithenkumar1@gmail.com**
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f77ddfa7-0127-4a79-a27a-f76d8e56b52c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sai jithendra kumar gangireddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai jithendra kumar gangireddy" height="30" width="40" /></a>
