@@ -1,14 +1,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Sai Jithendra Gangireddy</h1>
-<h3 align="center">Data scientist / AI Engineer </h3>
+<h3 align="center">Data Scientist / AI Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saijithendr&label=Profile%20views&color=0e75b6&style=flat" alt="saijithendr" /> </p>
 
-- 🔭 I’m currently working on **Machine learning and data analysis**
-
-- 🌱 I’m currently learning **core concepts of Artificial intelligence**
-
+- 🔭 I’m currently working on **Data driven machine learning solutions and ML Engineering**
 - 📫 How to reach me **jithenkumar1@gmail.com**
 
 
