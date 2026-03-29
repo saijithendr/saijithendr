@@ -1,26 +1,105 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Jithendra%20Gangireddy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20·%20ML%20Engineer%20·%20AI%20Engineer%20·%20Agentic%20Systems&descSize=16&descAlignY=55"/>
 
-<h1 align="center">Hi 👋, I'm Sai Jithendra Gangireddy</h1>
-<h3 align="center">Data Scientist / AI Engineer </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saijithendr&label=Profile%20views&color=0e75b6&style=flat" alt="saijithendr" /> </p>
-
-- 🔭 I’m currently working on **Data driven machine learning solutions and ML Engineering**
-- 📫 How to reach me **jithenkumar1@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sai jithendra kumar gangireddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai jithendra kumar gangireddy" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@jithendra kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jithendra kumar" height="30" width="40" /></a>
+<p>
+  <a href="https://linkedin.com/in/sai-jithendra-kumar-gangireddy-2b4420185">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jithenkumar1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://jithendragangireddy.online">
+    <img src="https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=saijithendr&style=for-the-badge&color=blueviolet"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Agentic+AI+%7C+LangGraph+Supervisor-Worker+Patterns;vLLM+%2B+PagedAttention+%7C+793+TPS+%7C+sub-200ms+P95;Multi-Agent+Orchestration+%7C+RAG+%7C+OpenTelemetry;Time-Series+Forecasting+%7C+LSTM+%7C+ST-ResNet;EU+AI+Act+Compliance+%7C+OR+Optimization+Systems)](https://git.io/typing-svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saijithendr&show_icons=true&locale=en&layout=compact" alt="saijithendr" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saijithendr&show_icons=true&locale=en" alt="saijithendr" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saijithendr&" alt="saijithendr" /></p>
+<table>
+<tr>
+<td valign="top" width="60%">
 
+## 🧬 Who I Am
+
+3+ years building **production-grade ML systems** and **agentic AI pipelines** — from raw data ingestion to autonomous multi-agent reasoning on GPU-accelerated inference servers.
+
+```yaml
+current_role  :   Data Scientist | ML Engineer
+location      :   Munich, Germany 🇩🇪
+specialization:
+  - Time-Series Forecasting (LSTM, ST-ResNet)
+  - Multi-Agent Orchestration (LangGraph + vLLM)
+  - LLM Inference Optimization & Observability
+  - Operations Research + AI (MILP, LP, NLP)
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠️ Stack
+
+**ML & Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**MLOps & Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Agentic AI & LLMs**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-7C3AED?style=flat-square&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=flat-square&logo=databricks&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
+![Arize Phoenix](https://img.shields.io/badge/Arize_Phoenix-6366F1?style=flat-square&logo=python&logoColor=white)
+
+**Cloud & Data**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saijithendr&theme=github_dark" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saijithendr&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saijithendr&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saijithendr&theme=github_dark" width="32%"/>
+
+<img src="https://streak-stats.demolab.com?user=saijithendr&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" width="60%"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
