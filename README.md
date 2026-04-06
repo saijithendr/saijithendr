@@ -9,9 +9,7 @@
   <a href="mailto:jithenkumar1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://jithendragangireddy.online">
-    <img src="https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+
   <img src="https://komarev.com/ghpvc/?username=saijithendr&style=for-the-badge&color=blueviolet"/>
 </p>
 
